@@ -9,7 +9,7 @@
     "@pattern-lab/engine-mustache": "^2.0.0-alpha.6",
     "@pattern-lab/starterkit-mustache-demo": "^4.0.4",
     "@pattern-lab/uikit-workshop": "^1.0.0-alpha.5",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "minimist": "^1.2.0"
   },
   "keywords": [
